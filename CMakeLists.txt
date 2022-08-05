@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name
-project(Tutorial)
+project(css2-renderer)
 
-# add the executable
-add_executable(Tutorial tutorial.cxx)
+# add the library
+add_library(css2-renderer css2-renderer.c)
