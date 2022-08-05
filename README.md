@@ -3,7 +3,7 @@ Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) renderer
 
 **css2-render** aims to be a library that implements the painting algorithm for
 the Cascading Style Sheets Level 2 Revision 1 (CSS 2.1) Specification. It is not
-a user agent.
+a user agent nor a parser for style sheets.
 
 ## Build
 ```sh
