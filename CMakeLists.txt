@@ -4,4 +4,4 @@ cmake_minimum_required(VERSION 3.10)
 project(css2-renderer)
 
 # add the library
-add_library(css2-renderer css2-renderer.c)
+add_library(css2-renderer SHARED css2-renderer.c)
